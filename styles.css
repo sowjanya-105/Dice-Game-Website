@@ -1,0 +1,49 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #1687A7;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Hanalei', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #f0e5d8;
+}
+
+h2 {
+  margin: 30px;
+  font-family: 'Satisfy', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 3rem;
+  color: #ffe227;
+}
+
+p {
+  font-size: 2rem;
+  color: #F6F5F5;
+  font-family: 'Satisfy', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+
+}
